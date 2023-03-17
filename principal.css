@@ -1,0 +1,28 @@
+img{
+width: 20%; margin:0 40%;
+}
+*{
+    color: white;
+    background-color: aquamarine;    
+}
+a:link{
+    color: red;
+}
+a:hover{
+    color: white;
+}   
+a:visited{
+    color: blue;
+}
+.img_historia{
+    width: 60%;
+    margin: 0 20%;
+}
+.img_tipos{
+    width: 40%;
+    margin: 0 30%;
+}
+table{
+    border: solid black;
+    padding: 0 10px ;
+}
